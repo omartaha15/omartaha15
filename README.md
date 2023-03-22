@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omar Taha Saad</h1>
+<h1 align="center">Hi 👋, I'm Omar Taha </h1>
 <h3 align="center">A competitive programmer , Junior Software Engineer .</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fopinion-when-coding-is-criminal%2F&psig=AOvVaw3qoFUKVGbtWEX15yzzMqgt&ust=1679529551534000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODPiqWd7v0CFQAAAAAdAAAAABAE")
+(img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wired.com%2Fstory%2Fopinion-when-coding-is-criminal%2F&psig=AOvVaw3qoFUKVGbtWEX15yzzMqgt&ust=1679529551534000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODPiqWd7v0CFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.multidots.com%2Fimportance-of-code-quality-and-coding-standard-in-software-development%2F&psig=AOvVaw3qoFUKVGbtWEX15yzzMqgt&ust=1679529551534000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODPiqWd7v0CFQAAAAAdAAAAABAJ)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omartaha15&label=Profile%20views&color=0e75b6&style=flat" alt="omartaha15" /> </p>
 
