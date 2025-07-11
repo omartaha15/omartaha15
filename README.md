@@ -11,7 +11,7 @@
 
 - 🧠 Currently diving deeper into **ASP.NET Core & System Design**
 - 🛠️ Focused on building scalable backend solutions
-- 📚 Passionate about **Competitive Programming** and **Clean Architecture**
+- 📚 Passionate about **Competitive Programming** 
 - 📫 Reach me at: **otaha6635@gmail.com**
 
 ---
