@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>Hi there, I'm <strong>Omar Taha</strong> 👋</h1>
-<h3>🚀 Junior Software Engineer | ASP.NET Core Backend Developer | ECPC Finalist</h3>
+<h3>🚀 Junior Software Engineer | ASP.NET Core Backend Developer | 2 X ACPC Finalist</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code.+Compete.+Create.+Repeat.;Backend+Engineer+%7C+Clean+Architecture;3000%2B+Problems+Solved+%7C+ECPC+%26+ACPC+Finalist" alt="Typing" />
 
@@ -15,7 +15,7 @@
 
 **Omar Taha** is a Junior Software Engineer specializing in **ASP.NET Core**.  
 - 🎓 B.Sc. Computer Science gradute (MTI University)  
-- 🏆 ECPC Finalist (2022, 2023 , 2024), ACPC Finalist (2023)  
+- 🏆 ECPC Finalist (2022, 2023 , 2024 , 2025 ), 2 X ACPC Finalist (2023 , 2025)  
 - 💻 3000+ problems solved on Codeforces, LeetCode, AtCoder  
 - 🛠 Founder @ MTI-ICPC Community | Vice Head @ GDG Problem Solving    
 
@@ -47,8 +47,8 @@
 
 ## 🏆 Achievements
 
-- 🥈 **ECPC Finalist** (2022, 2023, 2024)  
-- 🏅 **ACPC Finalist** (2023)  
+- 🥈 **ECPC Finalist** (2022, 2023, 2024 , 20255 )  
+- 🏅 **ACPC Finalist** (2023 , 2025 )  
 - 🧮 **3000+ problems** solved on major judges  
 - 🎓 **ITI .NET Full Stack** certification  
 
@@ -66,8 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=omartaha15&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omartaha15&theme=tokyonight&hide_border=true" height="160" />
 </p>
-
-<img src="https://ghchart.rshah.org/omartaha15" alt="GitHub Contribution Chart" />
 
 ---
 
