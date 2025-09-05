@@ -4,7 +4,7 @@
 <h1>Hi there, I'm <strong>Omar Taha</strong> 👋</h1>
 <h3>🚀 Junior Software Engineer | ASP.NET Core Backend Developer | 2 X ACPC Finalist</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code.+Compete.+Create.+Repeat.;Backend+Engineer+%7C+Clean+Architecture;3000%2B+Problems+Solved+%7C+ECPC+%26+ACPC+Finalist" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Code.+Compete.+Create.+Repeat.;Backend+Engineer+%7C;3000%2B+Problems+Solved+%7C+ECPC+%26+ACPC+Finalist" alt="Typing" />
 
 <img src="https://komarev.com/ghpvc/?username=omartaha15&label=Profile+views&color=blueviolet&style=flat-square" />
 </div>
