@@ -4,7 +4,7 @@
 <!-- =================== TITLE / BADGES =================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Omar+Taha+👋;Junior+Software+Engineer+%7C+ASP.NET+Core;3000%2B+Problems+Solved+%7C+ECPC+%26+ACPC+Finalist;Code.+Compete.+Create.+Repeat.+🚀" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Omar+Taha+👋;Junior+Software+Engineer+%7C+ASP.NET+Core;3000%2B+Problems+Solved+%7C+ECPC+%26+ACPC+Finalist;Code.+Compete.+Create.+Repeat.+🚀" alt="Typing SVG" /> -->
 
 <br/>
 
