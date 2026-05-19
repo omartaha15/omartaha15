@@ -49,44 +49,18 @@ I'm **Omar Taha**, a passionate **Backend Software Engineer** specialized in **.
 
 <br/>
 
-| Category | Details |
+## 🛠️ Tech Stack & Skills
+
+| Category | Technologies & Skills |
 |---|---|
-| 💻 **Languages** | C#, C++, JavaScript, SQL, HTML/CSS |
-| 🔧 **Frameworks** | ASP.NET Core, Entity Framework Core, Tailwind CSS |
-| 🗃️ **Databases** | SQL Server, PostgreSQL |
-| ⚙️ **Tools** | Git, GitHub, VS Code, Postman, Swagger, Docker |
-| 🧠 **Concepts** | OOP, SOLID, Clean Architecture, Design Patterns, JWT Auth, REST APIs |
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🩸 Blood Bank System | 📚 Book Store | 🛒 E-Commerce API |
-|:---:|:---:|:---:|
-| Role-based app for blood donations, lab tests & appointment scheduling | Full e-commerce web app with auth, cart & advanced filtering | Production-ready REST API with JWT auth, Redis caching & full CRUD |
-| `ASP.NET Core` `EF Core` `SQL Server` | `ASP.NET Core` `EF Core` `Tailwind` | `ASP.NET Core` `JWT` `Caching` |
-| [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/omartaha15/BloodBankSystem-GraduationProject-) | [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/omartaha15/BookStore) | [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/omartaha15/E-Commerce-API) |
-
-</div>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-
-</div>
-
-<br/>
-
-<div align="center">
-
-🥈 **ECPC Finalist** — 2022 · 2023 · 2024 · 2025 &nbsp;|&nbsp; 🏅 **ACPC Finalist** — 2023 · 2025 &nbsp;|&nbsp; 🧮 **3000+ Problems Solved** &nbsp;|&nbsp; 🎓 **ITI .NET Full Stack**
-
-</div>
+| 💻 **Languages** | C#, C++, JavaScript, TypeScript, Python, SQL, HTML5, CSS3 |
+| 🚀 **Backend Development** | ASP.NET Core, RESTful APIs, Entity Framework Core, LINQ, JWT Authentication, Middleware, Dependency Injection, SignalR |
+| 🏗️ **Architecture & Principles** | Clean Architecture, SOLID Principles, CQRS, N-Tier Architecture, Vertical Slice Architecture, Design Patterns, OOP |
+| 🗄️ **Databases** | SQL Server, PostgreSQL, Schema Design, Query Optimization, Indexing, Performance Tuning |
+| 🤖 **AI & Intelligent Systems** | LLM Integration, Retrieval-Augmented Generation (RAG), Agentic AI |
+| 🔐 **API Features** | Authentication & Authorization, Pagination, Filtering, Caching, Real-Time Communication |
+| 🎨 **Frontend** | Angular, Tailwind CSS, Bootstrap, HTML5, CSS3, Responsive Design |
+| ⚙️ **Tools & DevOps** | Git, GitHub, Postman, Swagger (OpenAPI), Docker (Basics), VS Code, xUnit |
 
 ---
 
@@ -105,46 +79,6 @@ I'm **Omar Taha**, a passionate **Backend Software Engineer** specialized in **.
 
 ---
 
-## 📊 Activity Graph
-
-<div align="center">
-
-[![Omar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omartaha15&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## ⚔️ Competitive Programming
-
-<div align="center">
-
-<img src="https://cf.leed.at?id=Omar_Taha" alt="Codeforces Rating" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://leetcard.jacoblin.cool/otaha6635?theme=dark&font=Karla&ext=contest" alt="LeetCode Stats" />
-
-<br/><br/>
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Omar__Taha-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Omar_Taha)
-[![LeetCode](https://img.shields.io/badge/LeetCode-otaha6635-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/otaha6635)
-
-</div>
-
----
-
-## 👥 Leadership
-
-<div align="center">
-
-| Role | Community |
-|:---:|:---:|
-| 👨‍🎓 **Founder** | MTI-ICPC Community |
-| 👨‍🏫 **Vice Head** | GDG Problem Solving Team |
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -152,7 +86,7 @@ I'm **Omar Taha**, a passionate **Backend Software Engineer** specialized in **.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Taha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar157)
 [![GitHub](https://img.shields.io/badge/GitHub-omartaha15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omartaha15)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Omar__Taha-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Omar_Taha)
-[![Gmail](https://img.shields.io/badge/Gmail-otaha6635%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaha6635@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-otaha6635%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartaha.swe@gmail.com)
 
 </div>
 
