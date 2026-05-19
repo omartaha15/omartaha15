@@ -11,7 +11,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=omartaha15&label=Profile+Views&color=6366f1&style=for-the-badge)](https://github.com/omartaha15)
 [![GitHub Followers](https://img.shields.io/github/followers/omartaha15?label=Followers&style=for-the-badge&color=38bdf8&logo=github)](https://github.com/omartaha15?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar157)
-[![Email](https://img.shields.io/badge/Email-otaha6635%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaha6635@gmail.com)
+[![Email](https://img.shields.io/badge/Email-otaha6635%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omartaha.swe@gmail.com)
 
 </div>
 
